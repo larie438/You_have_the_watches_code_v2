@@ -1,0 +1,62 @@
+[
+  {
+    "flight_id": 686206873,
+    "aircraft_id": 11405334,
+    "reg": "000180",
+    "equip": "C17",
+    "callsign": "RCH844",
+    "flight": "",
+    "schd_from": "KBL",
+    "schd_to": "XJD",
+    "real_to": "XJD",
+    "reserved": ""
+  },
+  {
+    "flight_id": 686273647,
+    "aircraft_id": 7340042,
+    "reg": "YAKMK",
+    "equip": "B733",
+    "callsign": "KMF4423",
+    "flight": "RQ4423",
+    "schd_from": "KBL",
+    "schd_to": "AUH",
+    "real_to": "AUH",
+    "reserved": ""
+  },
+  {
+    "flight_id": 686381223,
+    "aircraft_id": 4948498,
+    "reg": 170080,
+    "equip": "A400",
+    "callsign": "TUAF368",
+    "flight": "",
+    "schd_from": "KBL",
+    "schd_to": "ISB",
+    "real_to": "ISB",
+    "reserved": ""
+  },
+  {
+    "flight_id": 686381221,
+    "aircraft_id": 4155056,
+    "reg": "54+32",
+    "equip": "A400",
+    "callsign": "GAF423",
+    "flight": "",
+    "schd_from": "KBL",
+    "schd_to": "TAS",
+    "real_to": "TAS",
+    "reserved": ""
+  },
+  {
+    "flight_id": 686412526,
+    "aircraft_id": 12760063,
+    "reg": 177705,
+    "equip": "C17",
+    "callsign": "RACER28",
+    "flight": "",
+    "schd_from": "KBL",
+    "schd_to": "KWI",
+    "real_to": "KWI",
+    "reserved": ""
+  }
+]

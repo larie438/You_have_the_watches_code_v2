@@ -1,0 +1,4852 @@
+[
+    {
+        "snapshot_id": "1629314287",
+        "altitude": "1000",
+        "heading": "307",
+        "latitude": "24.26477",
+        "longitude": "54.52321",
+        "radar_id": "1236",
+        "speed": "156",
+        "squawk": "0000"
+    },
+    {
+        "snapshot_id": "1629314297",
+        "altitude": "1075",
+        "heading": "307",
+        "latitude": "24.26936",
+        "longitude": "54.51670",
+        "radar_id": "1236",
+        "speed": "165",
+        "squawk": "0000"
+    },
+    {
+        "snapshot_id": "1629314303",
+        "altitude": "1100",
+        "heading": "307",
+        "latitude": "24.27224",
+        "longitude": "54.51260",
+        "radar_id": "1236",
+        "speed": "173",
+        "squawk": "0000"
+    },
+    {
+        "snapshot_id": "1629314311",
+        "altitude": "1175",
+        "heading": "306",
+        "latitude": "24.27626",
+        "longitude": "54.50679",
+        "radar_id": "1236",
+        "speed": "182",
+        "squawk": "0000"
+    },
+    {
+        "snapshot_id": "1629314324",
+        "altitude": "1400",
+        "heading": "306",
+        "latitude": "24.28337",
+        "longitude": "54.49706",
+        "radar_id": "1236",
+        "speed": "184",
+        "squawk": "0000"
+    },
+    {
+        "snapshot_id": "1629314330",
+        "altitude": "1475",
+        "heading": "306",
+        "latitude": "24.28593",
+        "longitude": "54.49333",
+        "radar_id": "42438",
+        "speed": "184",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314349",
+        "altitude": "1875",
+        "heading": "306",
+        "latitude": "24.29503",
+        "longitude": "54.47922",
+        "radar_id": "17884",
+        "speed": "182",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314513",
+        "altitude": "4650",
+        "heading": "120",
+        "latitude": "24.26815",
+        "longitude": "54.44244",
+        "radar_id": "29623",
+        "speed": "177",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314519",
+        "altitude": "4775",
+        "heading": "118",
+        "latitude": "24.26582",
+        "longitude": "54.44717",
+        "radar_id": "29623",
+        "speed": "176",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314569",
+        "altitude": "5550",
+        "heading": "116",
+        "latitude": "24.24774",
+        "longitude": "54.48680",
+        "radar_id": "836",
+        "speed": "175",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314609",
+        "altitude": "6100",
+        "heading": "116",
+        "latitude": "24.23396",
+        "longitude": "54.51894",
+        "radar_id": "18400",
+        "speed": "177",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314665",
+        "altitude": "6825",
+        "heading": "118",
+        "latitude": "24.21213",
+        "longitude": "54.56380",
+        "radar_id": "836",
+        "speed": "181",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314684",
+        "altitude": "7075",
+        "heading": "117",
+        "latitude": "24.20437",
+        "longitude": "54.57930",
+        "radar_id": "836",
+        "speed": "182",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314714",
+        "altitude": "7475",
+        "heading": "119",
+        "latitude": "24.19203",
+        "longitude": "54.60393",
+        "radar_id": "5430",
+        "speed": "186",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314728",
+        "altitude": "7650",
+        "heading": "128",
+        "latitude": "24.18517",
+        "longitude": "54.61472",
+        "radar_id": "5430",
+        "speed": "187",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314740",
+        "altitude": "7825",
+        "heading": "126",
+        "latitude": "24.17880",
+        "longitude": "54.62300",
+        "radar_id": "836",
+        "speed": "185",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314752",
+        "altitude": "8000",
+        "heading": "124",
+        "latitude": "24.17276",
+        "longitude": "54.63294",
+        "radar_id": "836",
+        "speed": "183",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314763",
+        "altitude": "8150",
+        "heading": "124",
+        "latitude": "24.16750",
+        "longitude": "54.64131",
+        "radar_id": "41419",
+        "speed": "183",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314775",
+        "altitude": "8300",
+        "heading": "123",
+        "latitude": "24.16219",
+        "longitude": "54.65081",
+        "radar_id": "41419",
+        "speed": "183",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314782",
+        "altitude": "8400",
+        "heading": "103",
+        "latitude": "24.16013",
+        "longitude": "54.65713",
+        "radar_id": "836",
+        "speed": "187",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314794",
+        "altitude": "8525",
+        "heading": "92",
+        "latitude": "24.15931",
+        "longitude": "54.66859",
+        "radar_id": "836",
+        "speed": "189",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314797",
+        "altitude": "8575",
+        "heading": "92",
+        "latitude": "24.15921",
+        "longitude": "54.67149",
+        "radar_id": "836",
+        "speed": "189",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314800",
+        "altitude": "8650",
+        "heading": "88",
+        "latitude": "24.15921",
+        "longitude": "54.67434",
+        "radar_id": "836",
+        "speed": "189",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314803",
+        "altitude": "8700",
+        "heading": "86",
+        "latitude": "24.15912",
+        "longitude": "54.67719",
+        "radar_id": "836",
+        "speed": "189",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314805",
+        "altitude": "8725",
+        "heading": "86",
+        "latitude": "24.15945",
+        "longitude": "54.67911",
+        "radar_id": "41419",
+        "speed": "189",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314809",
+        "altitude": "8775",
+        "heading": "85",
+        "latitude": "24.15973",
+        "longitude": "54.68289",
+        "radar_id": "836",
+        "speed": "188",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314812",
+        "altitude": "8800",
+        "heading": "86",
+        "latitude": "24.15991",
+        "longitude": "54.68574",
+        "radar_id": "836",
+        "speed": "188",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314830",
+        "altitude": "9050",
+        "heading": "86",
+        "latitude": "24.16090",
+        "longitude": "54.70281",
+        "radar_id": "836",
+        "speed": "187",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314843",
+        "altitude": "9225",
+        "heading": "87",
+        "latitude": "24.16145",
+        "longitude": "54.71513",
+        "radar_id": "836",
+        "speed": "187",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314858",
+        "altitude": "9400",
+        "heading": "87",
+        "latitude": "24.16200",
+        "longitude": "54.72941",
+        "radar_id": "836",
+        "speed": "188",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314880",
+        "altitude": "9650",
+        "heading": "87",
+        "latitude": "24.16269",
+        "longitude": "54.75042",
+        "radar_id": "41419",
+        "speed": "189",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314892",
+        "altitude": "9800",
+        "heading": "88",
+        "latitude": "24.16301",
+        "longitude": "54.76191",
+        "radar_id": "41419",
+        "speed": "190",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314904",
+        "altitude": "9950",
+        "heading": "88",
+        "latitude": "24.16336",
+        "longitude": "54.77343",
+        "radar_id": "836",
+        "speed": "189",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314917",
+        "altitude": "10100",
+        "heading": "88",
+        "latitude": "24.16368",
+        "longitude": "54.78592",
+        "radar_id": "41419",
+        "speed": "191",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314928",
+        "altitude": "10225",
+        "heading": "88",
+        "latitude": "24.16402",
+        "longitude": "54.79655",
+        "radar_id": "836",
+        "speed": "191",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314939",
+        "altitude": "10350",
+        "heading": "88",
+        "latitude": "24.16429",
+        "longitude": "54.80722",
+        "radar_id": "41419",
+        "speed": "192",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314952",
+        "altitude": "10525",
+        "heading": "88",
+        "latitude": "24.16466",
+        "longitude": "54.81984",
+        "radar_id": "42438",
+        "speed": "192",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314965",
+        "altitude": "10675",
+        "heading": "88",
+        "latitude": "24.16502",
+        "longitude": "54.83246",
+        "radar_id": "42438",
+        "speed": "192",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314977",
+        "altitude": "10825",
+        "heading": "88",
+        "latitude": "24.16534",
+        "longitude": "54.84416",
+        "radar_id": "42438",
+        "speed": "193",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629314991",
+        "altitude": "10975",
+        "heading": "88",
+        "latitude": "24.16573",
+        "longitude": "54.85780",
+        "radar_id": "41419",
+        "speed": "193",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315005",
+        "altitude": "11150",
+        "heading": "88",
+        "latitude": "24.16611",
+        "longitude": "54.87147",
+        "radar_id": "836",
+        "speed": "193",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315016",
+        "altitude": "11250",
+        "heading": "88",
+        "latitude": "24.16638",
+        "longitude": "54.88220",
+        "radar_id": "42438",
+        "speed": "193",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315028",
+        "altitude": "11400",
+        "heading": "88",
+        "latitude": "24.16667",
+        "longitude": "54.89299",
+        "radar_id": "42438",
+        "speed": "193",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315041",
+        "altitude": "11550",
+        "heading": "88",
+        "latitude": "24.16704",
+        "longitude": "54.90667",
+        "radar_id": "836",
+        "speed": "194",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315057",
+        "altitude": "11725",
+        "heading": "88",
+        "latitude": "24.16745",
+        "longitude": "54.92238",
+        "radar_id": "836",
+        "speed": "194",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315070",
+        "altitude": "11800",
+        "heading": "98",
+        "latitude": "24.16704",
+        "longitude": "54.93424",
+        "radar_id": "836",
+        "speed": "196",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315072",
+        "altitude": "11850",
+        "heading": "99",
+        "latitude": "24.16676",
+        "longitude": "54.93713",
+        "radar_id": "836",
+        "speed": "195",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315075",
+        "altitude": "11900",
+        "heading": "99",
+        "latitude": "24.16629",
+        "longitude": "54.94009",
+        "radar_id": "836",
+        "speed": "195",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315087",
+        "altitude": "12025",
+        "heading": "99",
+        "latitude": "24.16462",
+        "longitude": "54.95180",
+        "radar_id": "836",
+        "speed": "195",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315124",
+        "altitude": "12450",
+        "heading": "99",
+        "latitude": "24.15926",
+        "longitude": "54.98787",
+        "radar_id": "836",
+        "speed": "195",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315164",
+        "altitude": "12875",
+        "heading": "98",
+        "latitude": "24.15354",
+        "longitude": "55.02694",
+        "radar_id": "836",
+        "speed": "195",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315200",
+        "altitude": "13225",
+        "heading": "98",
+        "latitude": "24.14832",
+        "longitude": "55.06210",
+        "radar_id": "836",
+        "speed": "195",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315231",
+        "altitude": "13450",
+        "heading": "98",
+        "latitude": "24.14410",
+        "longitude": "55.09247",
+        "radar_id": "836",
+        "speed": "196",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315270",
+        "altitude": "13800",
+        "heading": "99",
+        "latitude": "24.13859",
+        "longitude": "55.13059",
+        "radar_id": "836",
+        "speed": "195",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315309",
+        "altitude": "14125",
+        "heading": "99",
+        "latitude": "24.13296",
+        "longitude": "55.16883",
+        "radar_id": "29623",
+        "speed": "197",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315340",
+        "altitude": "14375",
+        "heading": "98",
+        "latitude": "24.12790",
+        "longitude": "55.19989",
+        "radar_id": "836",
+        "speed": "203",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315376",
+        "altitude": "14675",
+        "heading": "98",
+        "latitude": "24.12291",
+        "longitude": "55.23671",
+        "radar_id": "836",
+        "speed": "206",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315410",
+        "altitude": "14900",
+        "heading": "98",
+        "latitude": "24.11783",
+        "longitude": "55.27186",
+        "radar_id": "836",
+        "speed": "207",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315449",
+        "altitude": "15350",
+        "heading": "99",
+        "latitude": "24.11197",
+        "longitude": "55.31202",
+        "radar_id": "836",
+        "speed": "203",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315483",
+        "altitude": "15675",
+        "heading": "99",
+        "latitude": "24.10675",
+        "longitude": "55.34648",
+        "radar_id": "41821",
+        "speed": "202",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315517",
+        "altitude": "15975",
+        "heading": "99",
+        "latitude": "24.10186",
+        "longitude": "55.37975",
+        "radar_id": "836",
+        "speed": "202",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315548",
+        "altitude": "16275",
+        "heading": "99",
+        "latitude": "24.09723",
+        "longitude": "55.41234",
+        "radar_id": "41821",
+        "speed": "204",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315580",
+        "altitude": "16575",
+        "heading": "99",
+        "latitude": "24.09241",
+        "longitude": "55.44489",
+        "radar_id": "836",
+        "speed": "202",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315610",
+        "altitude": "16900",
+        "heading": "98",
+        "latitude": "24.08799",
+        "longitude": "55.47479",
+        "radar_id": "41821",
+        "speed": "198",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315643",
+        "altitude": "16925",
+        "heading": "98",
+        "latitude": "24.08313",
+        "longitude": "55.50898",
+        "radar_id": "41821",
+        "speed": "214",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315674",
+        "altitude": "16950",
+        "heading": "97",
+        "latitude": "24.07869",
+        "longitude": "55.54296",
+        "radar_id": "836",
+        "speed": "226",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315704",
+        "altitude": "16950",
+        "heading": "98",
+        "latitude": "24.07398",
+        "longitude": "55.57795",
+        "radar_id": "836",
+        "speed": "237",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315738",
+        "altitude": "16950",
+        "heading": "99",
+        "latitude": "24.06811",
+        "longitude": "55.61920",
+        "radar_id": "41821",
+        "speed": "248",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315753",
+        "altitude": "16850",
+        "heading": "109",
+        "latitude": "24.06439",
+        "longitude": "55.63767",
+        "radar_id": "41419",
+        "speed": "253",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315754",
+        "altitude": "16875",
+        "heading": "109",
+        "latitude": "24.06416",
+        "longitude": "55.63886",
+        "radar_id": "41821",
+        "speed": "253",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315768",
+        "altitude": "16875",
+        "heading": "113",
+        "latitude": "24.05796",
+        "longitude": "55.65441",
+        "radar_id": "41821",
+        "speed": "255",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315777",
+        "altitude": "16875",
+        "heading": "114",
+        "latitude": "24.05354",
+        "longitude": "55.66622",
+        "radar_id": "41419",
+        "speed": "255",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315780",
+        "altitude": "16875",
+        "heading": "114",
+        "latitude": "24.05223",
+        "longitude": "55.66960",
+        "radar_id": "836",
+        "speed": "255",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315813",
+        "altitude": "16875",
+        "heading": "115",
+        "latitude": "24.03557",
+        "longitude": "55.70830",
+        "radar_id": "836",
+        "speed": "256",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315850",
+        "altitude": "16850",
+        "heading": "116",
+        "latitude": "24.01625",
+        "longitude": "55.75028",
+        "radar_id": "41821",
+        "speed": "257",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315883",
+        "altitude": "16850",
+        "heading": "116",
+        "latitude": "23.99908",
+        "longitude": "55.78868",
+        "radar_id": "41419",
+        "speed": "257",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315916",
+        "altitude": "16850",
+        "heading": "116",
+        "latitude": "23.98077",
+        "longitude": "55.82809",
+        "radar_id": "40021",
+        "speed": "257",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315948",
+        "altitude": "16875",
+        "heading": "116",
+        "latitude": "23.96342",
+        "longitude": "55.86512",
+        "radar_id": "41419",
+        "speed": "256",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629315980",
+        "altitude": "16875",
+        "heading": "117",
+        "latitude": "23.94591",
+        "longitude": "55.90207",
+        "radar_id": "40021",
+        "speed": "257",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316012",
+        "altitude": "16850",
+        "heading": "117",
+        "latitude": "23.92831",
+        "longitude": "55.93903",
+        "radar_id": "41419",
+        "speed": "256",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316043",
+        "altitude": "16850",
+        "heading": "117",
+        "latitude": "23.91123",
+        "longitude": "55.97462",
+        "radar_id": "41821",
+        "speed": "255",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316076",
+        "altitude": "16875",
+        "heading": "117",
+        "latitude": "23.89382",
+        "longitude": "56.01073",
+        "radar_id": "41821",
+        "speed": "251",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316107",
+        "altitude": "16850",
+        "heading": "117",
+        "latitude": "23.87580",
+        "longitude": "56.04670",
+        "radar_id": "40021",
+        "speed": "251",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316144",
+        "altitude": "16850",
+        "heading": "118",
+        "latitude": "23.85612",
+        "longitude": "56.08795",
+        "radar_id": "836",
+        "speed": "249",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316177",
+        "altitude": "16900",
+        "heading": "118",
+        "latitude": "23.83795",
+        "longitude": "56.12300",
+        "radar_id": "40021",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316208",
+        "altitude": "16875",
+        "heading": "118",
+        "latitude": "23.82087",
+        "longitude": "56.15802",
+        "radar_id": "41575",
+        "speed": "247",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316242",
+        "altitude": "16850",
+        "heading": "118",
+        "latitude": "23.80211",
+        "longitude": "56.19527",
+        "radar_id": "41821",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316273",
+        "altitude": "16875",
+        "heading": "118",
+        "latitude": "23.78507",
+        "longitude": "56.22906",
+        "radar_id": "42305",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316302",
+        "altitude": "16875",
+        "heading": "118",
+        "latitude": "23.76929",
+        "longitude": "56.26047",
+        "radar_id": "40150",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316335",
+        "altitude": "16850",
+        "heading": "117",
+        "latitude": "23.75165",
+        "longitude": "56.29659",
+        "radar_id": "836",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316365",
+        "altitude": "16900",
+        "heading": "117",
+        "latitude": "23.73582",
+        "longitude": "56.32939",
+        "radar_id": "836",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316397",
+        "altitude": "16875",
+        "heading": "117",
+        "latitude": "23.71898",
+        "longitude": "56.36337",
+        "radar_id": "42305",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316429",
+        "altitude": "16875",
+        "heading": "117",
+        "latitude": "23.70190",
+        "longitude": "56.39867",
+        "radar_id": "41821",
+        "speed": "249",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316460",
+        "altitude": "16900",
+        "heading": "117",
+        "latitude": "23.68524",
+        "longitude": "56.43438",
+        "radar_id": "42305",
+        "speed": "250",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316493",
+        "altitude": "16900",
+        "heading": "117",
+        "latitude": "23.66762",
+        "longitude": "56.47156",
+        "radar_id": "42305",
+        "speed": "251",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316524",
+        "altitude": "16850",
+        "heading": "116",
+        "latitude": "23.65114",
+        "longitude": "56.50680",
+        "radar_id": "41575",
+        "speed": "254",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316556",
+        "altitude": "16850",
+        "heading": "117",
+        "latitude": "23.63406",
+        "longitude": "56.54332",
+        "radar_id": "41821",
+        "speed": "252",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316590",
+        "altitude": "16850",
+        "heading": "117",
+        "latitude": "23.61603",
+        "longitude": "56.58162",
+        "radar_id": "836",
+        "speed": "250",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316620",
+        "altitude": "16825",
+        "heading": "117",
+        "latitude": "23.60017",
+        "longitude": "56.61504",
+        "radar_id": "42305",
+        "speed": "247",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316652",
+        "altitude": "16875",
+        "heading": "117",
+        "latitude": "23.58313",
+        "longitude": "56.64888",
+        "radar_id": "41821",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316682",
+        "altitude": "16900",
+        "heading": "117",
+        "latitude": "23.56723",
+        "longitude": "56.68218",
+        "radar_id": "40150",
+        "speed": "241",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316718",
+        "altitude": "16825",
+        "heading": "118",
+        "latitude": "23.54817",
+        "longitude": "56.72081",
+        "radar_id": "40150",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316752",
+        "altitude": "16850",
+        "heading": "118",
+        "latitude": "23.53029",
+        "longitude": "56.75593",
+        "radar_id": "40021",
+        "speed": "237",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316783",
+        "altitude": "16925",
+        "heading": "117",
+        "latitude": "23.51440",
+        "longitude": "56.78933",
+        "radar_id": "42305",
+        "speed": "232",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316815",
+        "altitude": "16900",
+        "heading": "118",
+        "latitude": "23.49813",
+        "longitude": "56.82246",
+        "radar_id": "40021",
+        "speed": "234",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316848",
+        "altitude": "16875",
+        "heading": "117",
+        "latitude": "23.48135",
+        "longitude": "56.85719",
+        "radar_id": "41821",
+        "speed": "237",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316884",
+        "altitude": "16875",
+        "heading": "117",
+        "latitude": "23.46289",
+        "longitude": "56.89529",
+        "radar_id": "41821",
+        "speed": "238",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316916",
+        "altitude": "16900",
+        "heading": "117",
+        "latitude": "23.44650",
+        "longitude": "56.92927",
+        "radar_id": "41575",
+        "speed": "238",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316948",
+        "altitude": "16900",
+        "heading": "117",
+        "latitude": "23.42995",
+        "longitude": "56.96351",
+        "radar_id": "836",
+        "speed": "241",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629316978",
+        "altitude": "16875",
+        "heading": "117",
+        "latitude": "23.41443",
+        "longitude": "56.99585",
+        "radar_id": "836",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317012",
+        "altitude": "16875",
+        "heading": "117",
+        "latitude": "23.39676",
+        "longitude": "57.03268",
+        "radar_id": "41821",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317035",
+        "altitude": "16875",
+        "heading": "99",
+        "latitude": "23.38641",
+        "longitude": "57.05854",
+        "radar_id": "41821",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317037",
+        "altitude": "16875",
+        "heading": "104",
+        "latitude": "23.38600",
+        "longitude": "57.06094",
+        "radar_id": "41575",
+        "speed": "240",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317038",
+        "altitude": "16875",
+        "heading": "95",
+        "latitude": "23.38605",
+        "longitude": "57.06214",
+        "radar_id": "41821",
+        "speed": "240",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317039",
+        "altitude": "16875",
+        "heading": "94",
+        "latitude": "23.38580",
+        "longitude": "57.06334",
+        "radar_id": "40021",
+        "speed": "241",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317042",
+        "altitude": "16875",
+        "heading": "91",
+        "latitude": "23.38568",
+        "longitude": "57.06698",
+        "radar_id": "41821",
+        "speed": "241",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317043",
+        "altitude": "16875",
+        "heading": "91",
+        "latitude": "23.38568",
+        "longitude": "57.06818",
+        "radar_id": "42305",
+        "speed": "241",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317045",
+        "altitude": "16875",
+        "heading": "90",
+        "latitude": "23.38564",
+        "longitude": "57.07063",
+        "radar_id": "41821",
+        "speed": "241",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317048",
+        "altitude": "16900",
+        "heading": "88",
+        "latitude": "23.38570",
+        "longitude": "57.07423",
+        "radar_id": "41821",
+        "speed": "240",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317055",
+        "altitude": "16900",
+        "heading": "86",
+        "latitude": "23.38593",
+        "longitude": "57.08267",
+        "radar_id": "41821",
+        "speed": "240",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317058",
+        "altitude": "16900",
+        "heading": "85",
+        "latitude": "23.38619",
+        "longitude": "57.08631",
+        "radar_id": "41821",
+        "speed": "239",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317059",
+        "altitude": "16900",
+        "heading": "88",
+        "latitude": "23.38631",
+        "longitude": "57.08751",
+        "radar_id": "42305",
+        "speed": "240",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317062",
+        "altitude": "16900",
+        "heading": "84",
+        "latitude": "23.38664",
+        "longitude": "57.08991",
+        "radar_id": "41821",
+        "speed": "239",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317063",
+        "altitude": "16900",
+        "heading": "84",
+        "latitude": "23.38677",
+        "longitude": "57.09111",
+        "radar_id": "41575",
+        "speed": "240",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317065",
+        "altitude": "16900",
+        "heading": "84",
+        "latitude": "23.38701",
+        "longitude": "57.09351",
+        "radar_id": "41821",
+        "speed": "240",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317066",
+        "altitude": "16900",
+        "heading": "84",
+        "latitude": "23.38710",
+        "longitude": "57.09473",
+        "radar_id": "41575",
+        "speed": "240",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317069",
+        "altitude": "16900",
+        "heading": "83",
+        "latitude": "23.38747",
+        "longitude": "57.09829",
+        "radar_id": "41575",
+        "speed": "240",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317099",
+        "altitude": "16900",
+        "heading": "81",
+        "latitude": "23.39195",
+        "longitude": "57.13550",
+        "radar_id": "41575",
+        "speed": "240",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317131",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.39729",
+        "longitude": "57.17260",
+        "radar_id": "41821",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317161",
+        "altitude": "16850",
+        "heading": "80",
+        "latitude": "23.40294",
+        "longitude": "57.21001",
+        "radar_id": "42305",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317203",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.41107",
+        "longitude": "57.26085",
+        "radar_id": "41575",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317235",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.41759",
+        "longitude": "57.29950",
+        "radar_id": "41821",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317267",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.42434",
+        "longitude": "57.33810",
+        "radar_id": "41575",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317297",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.43105",
+        "longitude": "57.37435",
+        "radar_id": "40021",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317330",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.43851",
+        "longitude": "57.41425",
+        "radar_id": "40021",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317376",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.44945",
+        "longitude": "57.46998",
+        "radar_id": "41821",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317409",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.45718",
+        "longitude": "57.50993",
+        "radar_id": "40021",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317441",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.46451",
+        "longitude": "57.54873",
+        "radar_id": "41575",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317471",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.47154",
+        "longitude": "57.58519",
+        "radar_id": "41575",
+        "speed": "247",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317503",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.47897",
+        "longitude": "57.62414",
+        "radar_id": "40021",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317535",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.48630",
+        "longitude": "57.66312",
+        "radar_id": "41575",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317568",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.49361",
+        "longitude": "57.70330",
+        "radar_id": "41575",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317602",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.50131",
+        "longitude": "57.74349",
+        "radar_id": "41575",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317635",
+        "altitude": "16875",
+        "heading": "78",
+        "latitude": "23.50874",
+        "longitude": "57.78514",
+        "radar_id": "41821",
+        "speed": "247",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317665",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.51526",
+        "longitude": "57.82161",
+        "radar_id": "42305",
+        "speed": "247",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317697",
+        "altitude": "16850",
+        "heading": "79",
+        "latitude": "23.52233",
+        "longitude": "57.85965",
+        "radar_id": "41821",
+        "speed": "248",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317727",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.52892",
+        "longitude": "57.89770",
+        "radar_id": "40021",
+        "speed": "248",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317759",
+        "altitude": "16900",
+        "heading": "79",
+        "latitude": "23.53574",
+        "longitude": "57.93700",
+        "radar_id": "41821",
+        "speed": "247",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317791",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.54254",
+        "longitude": "57.97628",
+        "radar_id": "40021",
+        "speed": "249",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317821",
+        "altitude": "16850",
+        "heading": "79",
+        "latitude": "23.54887",
+        "longitude": "58.01346",
+        "radar_id": "40021",
+        "speed": "250",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317853",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.55571",
+        "longitude": "58.05300",
+        "radar_id": "42305",
+        "speed": "250",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317886",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.56297",
+        "longitude": "58.09387",
+        "radar_id": "40021",
+        "speed": "250",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317920",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.57025",
+        "longitude": "58.13609",
+        "radar_id": "41821",
+        "speed": "251",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317951",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.57689",
+        "longitude": "58.17463",
+        "radar_id": "41575",
+        "speed": "251",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629317982",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.58348",
+        "longitude": "58.21315",
+        "radar_id": "41821",
+        "speed": "251",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318018",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.59108",
+        "longitude": "58.25785",
+        "radar_id": "41821",
+        "speed": "251",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318051",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.59772",
+        "longitude": "58.29895",
+        "radar_id": "41575",
+        "speed": "250",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318081",
+        "altitude": "16850",
+        "heading": "79",
+        "latitude": "23.60371",
+        "longitude": "58.33628",
+        "radar_id": "41575",
+        "speed": "250",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318116",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.61067",
+        "longitude": "58.37977",
+        "radar_id": "41821",
+        "speed": "250",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318148",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.61749",
+        "longitude": "58.41944",
+        "radar_id": "41575",
+        "speed": "250",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318178",
+        "altitude": "16900",
+        "heading": "79",
+        "latitude": "23.62382",
+        "longitude": "58.45628",
+        "radar_id": "41575",
+        "speed": "248",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318212",
+        "altitude": "16900",
+        "heading": "79",
+        "latitude": "23.63075",
+        "longitude": "58.49676",
+        "radar_id": "41575",
+        "speed": "247",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318244",
+        "altitude": "16900",
+        "heading": "79",
+        "latitude": "23.63802",
+        "longitude": "58.53728",
+        "radar_id": "41821",
+        "speed": "248",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318275",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.64467",
+        "longitude": "58.57418",
+        "radar_id": "41575",
+        "speed": "248",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318307",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.65164",
+        "longitude": "58.61354",
+        "radar_id": "41821",
+        "speed": "248",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318337",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.65819",
+        "longitude": "58.65158",
+        "radar_id": "41575",
+        "speed": "248",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318369",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.66502",
+        "longitude": "58.69093",
+        "radar_id": "40021",
+        "speed": "248",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318401",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.67177",
+        "longitude": "58.73016",
+        "radar_id": "40021",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318433",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.67828",
+        "longitude": "58.76923",
+        "radar_id": "40150",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318466",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.68524",
+        "longitude": "58.80946",
+        "radar_id": "40021",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318499",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.69202",
+        "longitude": "58.84972",
+        "radar_id": "40021",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318530",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.69829",
+        "longitude": "58.88748",
+        "radar_id": "41575",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318564",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.70515",
+        "longitude": "58.92890",
+        "radar_id": "41575",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318596",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.71148",
+        "longitude": "58.96673",
+        "radar_id": "40021",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318629",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.71797",
+        "longitude": "59.00818",
+        "radar_id": "40021",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318661",
+        "altitude": "16850",
+        "heading": "79",
+        "latitude": "23.72423",
+        "longitude": "59.04726",
+        "radar_id": "41821",
+        "speed": "246",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318695",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.73089",
+        "longitude": "59.08888",
+        "radar_id": "41575",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318729",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.73759",
+        "longitude": "59.13028",
+        "radar_id": "41821",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318762",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.74416",
+        "longitude": "59.17050",
+        "radar_id": "41821",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318795",
+        "altitude": "16900",
+        "heading": "79",
+        "latitude": "23.75072",
+        "longitude": "59.21061",
+        "radar_id": "41821",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318828",
+        "altitude": "16850",
+        "heading": "79",
+        "latitude": "23.75728",
+        "longitude": "59.25077",
+        "radar_id": "41821",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318860",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.76366",
+        "longitude": "59.28974",
+        "radar_id": "41821",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318876",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.76691",
+        "longitude": "59.30918",
+        "radar_id": "41821",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318934",
+        "altitude": "16875",
+        "heading": "79",
+        "latitude": "23.77846",
+        "longitude": "59.37940",
+        "radar_id": "40150",
+        "speed": "243",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318968",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.78517",
+        "longitude": "59.42047",
+        "radar_id": "42346",
+        "speed": "243",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629318998",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.79094",
+        "longitude": "59.45679",
+        "radar_id": "42346",
+        "speed": "243",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319030",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.79708",
+        "longitude": "59.49548",
+        "radar_id": "41821",
+        "speed": "243",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319077",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.80614",
+        "longitude": "59.55251",
+        "radar_id": "41821",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319109",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.81231",
+        "longitude": "59.59135",
+        "radar_id": "41821",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319143",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.81895",
+        "longitude": "59.63257",
+        "radar_id": "41821",
+        "speed": "243",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319185",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.82702",
+        "longitude": "59.68333",
+        "radar_id": "41821",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319237",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.83667",
+        "longitude": "59.74574",
+        "radar_id": "41821",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319246",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.83832",
+        "longitude": "59.75657",
+        "radar_id": "41821",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319267",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.84221",
+        "longitude": "59.78195",
+        "radar_id": "41821",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319325",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.85306",
+        "longitude": "59.85184",
+        "radar_id": "41575",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319358",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.85928",
+        "longitude": "59.89151",
+        "radar_id": "41575",
+        "speed": "241",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319392",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.86566",
+        "longitude": "59.93239",
+        "radar_id": "41575",
+        "speed": "241",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319419",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.87086",
+        "longitude": "59.96486",
+        "radar_id": "41575",
+        "speed": "241",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319512",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.88808",
+        "longitude": "60.07690",
+        "radar_id": "40150",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319544",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.89407",
+        "longitude": "60.11561",
+        "radar_id": "41575",
+        "speed": "243",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319576",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.90025",
+        "longitude": "60.15574",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319607",
+        "altitude": "16850",
+        "heading": "80",
+        "latitude": "23.90602",
+        "longitude": "60.19236",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319644",
+        "altitude": "16850",
+        "heading": "80",
+        "latitude": "23.91272",
+        "longitude": "60.23757",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319675",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.91847",
+        "longitude": "60.27517",
+        "radar_id": "41575",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319708",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.92454",
+        "longitude": "60.31500",
+        "radar_id": "41575",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319721",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.92694",
+        "longitude": "60.33071",
+        "radar_id": "41575",
+        "speed": "242",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319778",
+        "altitude": "16850",
+        "heading": "80",
+        "latitude": "23.93770",
+        "longitude": "60.39998",
+        "radar_id": "3161",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319803",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.94260",
+        "longitude": "60.43157",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319862",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.95354",
+        "longitude": "60.50217",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319893",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.95923",
+        "longitude": "60.53995",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319911",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.96233",
+        "longitude": "60.56066",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629319982",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.97547",
+        "longitude": "60.64697",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629320018",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.98242",
+        "longitude": "60.69178",
+        "radar_id": "42251",
+        "speed": "243",
+        "squawk": "1730"
+    },
+    {
+        "snapshot_id": "1629320048",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.98801",
+        "longitude": "60.72810",
+        "radar_id": "42251",
+        "speed": "243",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320078",
+        "altitude": "16900",
+        "heading": "80",
+        "latitude": "23.99354",
+        "longitude": "60.76305",
+        "radar_id": "42251",
+        "speed": "241",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320110",
+        "altitude": "16875",
+        "heading": "80",
+        "latitude": "23.99954",
+        "longitude": "60.80271",
+        "radar_id": "42251",
+        "speed": "241",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320166",
+        "altitude": "16875",
+        "heading": "85",
+        "latitude": "24.00893",
+        "longitude": "60.87031",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320198",
+        "altitude": "16875",
+        "heading": "88",
+        "latitude": "24.01048",
+        "longitude": "60.90953",
+        "radar_id": "41051",
+        "speed": "243",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320217",
+        "altitude": "16875",
+        "heading": "13",
+        "latitude": "24.01081",
+        "longitude": "60.93287",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320243",
+        "altitude": "16875",
+        "heading": "95",
+        "latitude": "24.00960",
+        "longitude": "60.96495",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320278",
+        "altitude": "16875",
+        "heading": "96",
+        "latitude": "24.00540",
+        "longitude": "61.00805",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320308",
+        "altitude": "16875",
+        "heading": "96",
+        "latitude": "24.00178",
+        "longitude": "61.04501",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320339",
+        "altitude": "16875",
+        "heading": "94",
+        "latitude": "23.99787",
+        "longitude": "61.08331",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320348",
+        "altitude": "16875",
+        "heading": "91",
+        "latitude": "23.99716",
+        "longitude": "61.09446",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320405",
+        "altitude": "17175",
+        "heading": "82",
+        "latitude": "24.00238",
+        "longitude": "61.16420",
+        "radar_id": "42251",
+        "speed": "231",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320436",
+        "altitude": "17350",
+        "heading": "81",
+        "latitude": "24.00713",
+        "longitude": "61.19851",
+        "radar_id": "42251",
+        "speed": "226",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320458",
+        "altitude": "17425",
+        "heading": "81",
+        "latitude": "24.01067",
+        "longitude": "61.22315",
+        "radar_id": "42251",
+        "speed": "223",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320515",
+        "altitude": "17350",
+        "heading": "81",
+        "latitude": "24.02040",
+        "longitude": "61.28941",
+        "radar_id": "42251",
+        "speed": "230",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320523",
+        "altitude": "17350",
+        "heading": "80",
+        "latitude": "24.02161",
+        "longitude": "61.29749",
+        "radar_id": "42251",
+        "speed": "230",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320601",
+        "altitude": "17350",
+        "heading": "53",
+        "latitude": "24.05040",
+        "longitude": "61.38270",
+        "radar_id": "42251",
+        "speed": "233",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320635",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.07258",
+        "longitude": "61.41326",
+        "radar_id": "42251",
+        "speed": "234",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320666",
+        "altitude": "17375",
+        "heading": "50",
+        "latitude": "24.09338",
+        "longitude": "61.44078",
+        "radar_id": "42251",
+        "speed": "235",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320697",
+        "altitude": "17375",
+        "heading": "50",
+        "latitude": "24.11577",
+        "longitude": "61.47023",
+        "radar_id": "41051",
+        "speed": "237",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320728",
+        "altitude": "17400",
+        "heading": "50",
+        "latitude": "24.13762",
+        "longitude": "61.49887",
+        "radar_id": "41051",
+        "speed": "237",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320760",
+        "altitude": "17400",
+        "heading": "50",
+        "latitude": "24.16024",
+        "longitude": "61.52857",
+        "radar_id": "41051",
+        "speed": "239",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320793",
+        "altitude": "17375",
+        "heading": "50",
+        "latitude": "24.18375",
+        "longitude": "61.55935",
+        "radar_id": "42251",
+        "speed": "240",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320826",
+        "altitude": "17375",
+        "heading": "50",
+        "latitude": "24.20732",
+        "longitude": "61.59032",
+        "radar_id": "41051",
+        "speed": "241",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320860",
+        "altitude": "17300",
+        "heading": "50",
+        "latitude": "24.23177",
+        "longitude": "61.62247",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320891",
+        "altitude": "17325",
+        "heading": "50",
+        "latitude": "24.25433",
+        "longitude": "61.65212",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320921",
+        "altitude": "17475",
+        "heading": "46",
+        "latitude": "24.27587",
+        "longitude": "61.68015",
+        "radar_id": "41051",
+        "speed": "240",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320955",
+        "altitude": "17400",
+        "heading": "53",
+        "latitude": "24.29997",
+        "longitude": "61.71260",
+        "radar_id": "41051",
+        "speed": "244",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629320986",
+        "altitude": "17400",
+        "heading": "53",
+        "latitude": "24.32089",
+        "longitude": "61.74337",
+        "radar_id": "41051",
+        "speed": "243",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321019",
+        "altitude": "17400",
+        "heading": "48",
+        "latitude": "24.34346",
+        "longitude": "61.77592",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321049",
+        "altitude": "17375",
+        "heading": "38",
+        "latitude": "24.36768",
+        "longitude": "61.80193",
+        "radar_id": "41051",
+        "speed": "246",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321071",
+        "altitude": "17375",
+        "heading": "52",
+        "latitude": "24.38457",
+        "longitude": "61.82134",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321073",
+        "altitude": "17400",
+        "heading": "52",
+        "latitude": "24.38662",
+        "longitude": "61.82432",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321077",
+        "altitude": "17400",
+        "heading": "52",
+        "latitude": "24.38872",
+        "longitude": "61.82825",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321080",
+        "altitude": "17400",
+        "heading": "52",
+        "latitude": "24.39079",
+        "longitude": "61.83121",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321082",
+        "altitude": "17400",
+        "heading": "52",
+        "latitude": "24.39286",
+        "longitude": "61.83416",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321117",
+        "altitude": "17350",
+        "heading": "48",
+        "latitude": "24.41689",
+        "longitude": "61.86742",
+        "radar_id": "42251",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321150",
+        "altitude": "17350",
+        "heading": "49",
+        "latitude": "24.44179",
+        "longitude": "61.89860",
+        "radar_id": "42251",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321180",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.46390",
+        "longitude": "61.92734",
+        "radar_id": "42251",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321220",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.49313",
+        "longitude": "61.96584",
+        "radar_id": "42251",
+        "speed": "246",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321251",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.51501",
+        "longitude": "61.99481",
+        "radar_id": "42251",
+        "speed": "246",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321282",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.53815",
+        "longitude": "62.02570",
+        "radar_id": "41051",
+        "speed": "246",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321320",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.56598",
+        "longitude": "62.06238",
+        "radar_id": "42251",
+        "speed": "246",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321351",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.58852",
+        "longitude": "62.09136",
+        "radar_id": "42251",
+        "speed": "246",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321384",
+        "altitude": "17325",
+        "heading": "50",
+        "latitude": "24.61254",
+        "longitude": "62.12421",
+        "radar_id": "42251",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321414",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.63437",
+        "longitude": "62.15323",
+        "radar_id": "41051",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321448",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.65909",
+        "longitude": "62.18613",
+        "radar_id": "41051",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321478",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.68162",
+        "longitude": "62.21526",
+        "radar_id": "41051",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321512",
+        "altitude": "17325",
+        "heading": "50",
+        "latitude": "24.70574",
+        "longitude": "62.24817",
+        "radar_id": "42251",
+        "speed": "248",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321542",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.72748",
+        "longitude": "62.27748",
+        "radar_id": "42251",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321573",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.75023",
+        "longitude": "62.30764",
+        "radar_id": "41051",
+        "speed": "248",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321606",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.77422",
+        "longitude": "62.33985",
+        "radar_id": "42251",
+        "speed": "249",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321638",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.79768",
+        "longitude": "62.37125",
+        "radar_id": "41051",
+        "speed": "250",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321668",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.81986",
+        "longitude": "62.40087",
+        "radar_id": "41051",
+        "speed": "250",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321699",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.84366",
+        "longitude": "62.43154",
+        "radar_id": "41051",
+        "speed": "252",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321731",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.86653",
+        "longitude": "62.46329",
+        "radar_id": "42251",
+        "speed": "253",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321762",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.88957",
+        "longitude": "62.49417",
+        "radar_id": "42251",
+        "speed": "253",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321795",
+        "altitude": "17350",
+        "heading": "50",
+        "latitude": "24.91429",
+        "longitude": "62.52713",
+        "radar_id": "42251",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321822",
+        "altitude": "17375",
+        "heading": "38",
+        "latitude": "24.93558",
+        "longitude": "62.55269",
+        "radar_id": "41051",
+        "speed": "257",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321823",
+        "altitude": "17375",
+        "heading": "36",
+        "latitude": "24.93672",
+        "longitude": "62.55345",
+        "radar_id": "42251",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321825",
+        "altitude": "17375",
+        "heading": "33",
+        "latitude": "24.93855",
+        "longitude": "62.55486",
+        "radar_id": "41051",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321828",
+        "altitude": "17375",
+        "heading": "31",
+        "latitude": "24.94148",
+        "longitude": "62.55696",
+        "radar_id": "41051",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321830",
+        "altitude": "17350",
+        "heading": "30",
+        "latitude": "24.94350",
+        "longitude": "62.55829",
+        "radar_id": "41051",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321833",
+        "altitude": "17350",
+        "heading": "27",
+        "latitude": "24.94661",
+        "longitude": "62.56012",
+        "radar_id": "41051",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321835",
+        "altitude": "17375",
+        "heading": "24",
+        "latitude": "24.94862",
+        "longitude": "62.56119",
+        "radar_id": "42251",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321837",
+        "altitude": "17350",
+        "heading": "21",
+        "latitude": "24.95097",
+        "longitude": "62.56216",
+        "radar_id": "41051",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321838",
+        "altitude": "17375",
+        "heading": "20",
+        "latitude": "24.95191",
+        "longitude": "62.56263",
+        "radar_id": "42251",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321841",
+        "altitude": "17375",
+        "heading": "19",
+        "latitude": "24.95540",
+        "longitude": "62.56388",
+        "radar_id": "42251",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321842",
+        "altitude": "17375",
+        "heading": "19",
+        "latitude": "24.95754",
+        "longitude": "62.56434",
+        "radar_id": "41051",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321846",
+        "altitude": "17325",
+        "heading": "21",
+        "latitude": "24.96084",
+        "longitude": "62.56636",
+        "radar_id": "41051",
+        "speed": "253",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321847",
+        "altitude": "17325",
+        "heading": "26",
+        "latitude": "24.96185",
+        "longitude": "62.56694",
+        "radar_id": "42251",
+        "speed": "252",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321849",
+        "altitude": "17325",
+        "heading": "30",
+        "latitude": "24.96387",
+        "longitude": "62.56823",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321858",
+        "altitude": "17300",
+        "heading": "44",
+        "latitude": "24.97202",
+        "longitude": "62.57554",
+        "radar_id": "41051",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321859",
+        "altitude": "17300",
+        "heading": "45",
+        "latitude": "24.97279",
+        "longitude": "62.57645",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321860",
+        "altitude": "17300",
+        "heading": "46",
+        "latitude": "24.97444",
+        "longitude": "62.57735",
+        "radar_id": "41051",
+        "speed": "246",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321862",
+        "altitude": "17300",
+        "heading": "47",
+        "latitude": "24.97531",
+        "longitude": "62.57919",
+        "radar_id": "42251",
+        "speed": "246",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321864",
+        "altitude": "17300",
+        "heading": "50",
+        "latitude": "24.97751",
+        "longitude": "62.58196",
+        "radar_id": "41051",
+        "speed": "244",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321865",
+        "altitude": "17300",
+        "heading": "51",
+        "latitude": "24.97819",
+        "longitude": "62.58204",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321867",
+        "altitude": "17325",
+        "heading": "52",
+        "latitude": "24.97891",
+        "longitude": "62.58403",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321868",
+        "altitude": "17325",
+        "heading": "54",
+        "latitude": "24.97957",
+        "longitude": "62.58504",
+        "radar_id": "42251",
+        "speed": "243",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321870",
+        "altitude": "17300",
+        "heading": "57",
+        "latitude": "24.98103",
+        "longitude": "62.58708",
+        "radar_id": "41051",
+        "speed": "244",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321872",
+        "altitude": "17300",
+        "heading": "59",
+        "latitude": "24.98142",
+        "longitude": "62.58813",
+        "radar_id": "42251",
+        "speed": "243",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321874",
+        "altitude": "17325",
+        "heading": "64",
+        "latitude": "24.98375",
+        "longitude": "62.59144",
+        "radar_id": "42251",
+        "speed": "242",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321877",
+        "altitude": "17350",
+        "heading": "66",
+        "latitude": "24.98474",
+        "longitude": "62.59481",
+        "radar_id": "41051",
+        "speed": "241",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321878",
+        "altitude": "17350",
+        "heading": "68",
+        "latitude": "24.98515",
+        "longitude": "62.59595",
+        "radar_id": "42251",
+        "speed": "240",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321879",
+        "altitude": "17375",
+        "heading": "70",
+        "latitude": "24.98584",
+        "longitude": "62.59710",
+        "radar_id": "41051",
+        "speed": "240",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321880",
+        "altitude": "17350",
+        "heading": "73",
+        "latitude": "24.98584",
+        "longitude": "62.59827",
+        "radar_id": "42251",
+        "speed": "239",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321882",
+        "altitude": "17375",
+        "heading": "73",
+        "latitude": "24.98677",
+        "longitude": "62.60062",
+        "radar_id": "41051",
+        "speed": "239",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321884",
+        "altitude": "17375",
+        "heading": "77",
+        "latitude": "24.98703",
+        "longitude": "62.60178",
+        "radar_id": "42251",
+        "speed": "238",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321886",
+        "altitude": "17400",
+        "heading": "77",
+        "latitude": "24.98743",
+        "longitude": "62.60533",
+        "radar_id": "41051",
+        "speed": "238",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321889",
+        "altitude": "17400",
+        "heading": "84",
+        "latitude": "24.98781",
+        "longitude": "62.60895",
+        "radar_id": "41051",
+        "speed": "236",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321890",
+        "altitude": "17400",
+        "heading": "86",
+        "latitude": "24.98803",
+        "longitude": "62.61015",
+        "radar_id": "42251",
+        "speed": "236",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321892",
+        "altitude": "17400",
+        "heading": "90",
+        "latitude": "24.98803",
+        "longitude": "62.61253",
+        "radar_id": "41051",
+        "speed": "237",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321893",
+        "altitude": "17400",
+        "heading": "91",
+        "latitude": "24.98794",
+        "longitude": "62.61373",
+        "radar_id": "42251",
+        "speed": "237",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321895",
+        "altitude": "17375",
+        "heading": "94",
+        "latitude": "24.98772",
+        "longitude": "62.61617",
+        "radar_id": "41051",
+        "speed": "237",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321896",
+        "altitude": "17375",
+        "heading": "97",
+        "latitude": "24.98770",
+        "longitude": "62.61736",
+        "radar_id": "42251",
+        "speed": "238",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321898",
+        "altitude": "17350",
+        "heading": "100",
+        "latitude": "24.98724",
+        "longitude": "62.61974",
+        "radar_id": "41051",
+        "speed": "238",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321902",
+        "altitude": "17350",
+        "heading": "110",
+        "latitude": "24.98602",
+        "longitude": "62.62436",
+        "radar_id": "42251",
+        "speed": "240",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321905",
+        "altitude": "17350",
+        "heading": "114",
+        "latitude": "24.98474",
+        "longitude": "62.62767",
+        "radar_id": "41051",
+        "speed": "243",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321907",
+        "altitude": "17350",
+        "heading": "120",
+        "latitude": "24.98375",
+        "longitude": "62.62979",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321910",
+        "altitude": "17350",
+        "heading": "129",
+        "latitude": "24.98175",
+        "longitude": "62.63274",
+        "radar_id": "41051",
+        "speed": "243",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321911",
+        "altitude": "17350",
+        "heading": "131",
+        "latitude": "24.98117",
+        "longitude": "62.63372",
+        "radar_id": "42251",
+        "speed": "242",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321915",
+        "altitude": "17350",
+        "heading": "137",
+        "latitude": "24.97865",
+        "longitude": "62.63636",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321917",
+        "altitude": "17350",
+        "heading": "141",
+        "latitude": "24.97635",
+        "longitude": "62.63871",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321920",
+        "altitude": "17350",
+        "heading": "149",
+        "latitude": "24.97334",
+        "longitude": "62.64079",
+        "radar_id": "42251",
+        "speed": "246",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321924",
+        "altitude": "17350",
+        "heading": "153",
+        "latitude": "24.97043",
+        "longitude": "62.64254",
+        "radar_id": "42251",
+        "speed": "250",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321927",
+        "altitude": "17350",
+        "heading": "159",
+        "latitude": "24.96721",
+        "longitude": "62.64389",
+        "radar_id": "42251",
+        "speed": "251",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321929",
+        "altitude": "17350",
+        "heading": "165",
+        "latitude": "24.96387",
+        "longitude": "62.64492",
+        "radar_id": "42251",
+        "speed": "252",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321932",
+        "altitude": "17350",
+        "heading": "171",
+        "latitude": "24.96043",
+        "longitude": "62.64555",
+        "radar_id": "41051",
+        "speed": "250",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321935",
+        "altitude": "17350",
+        "heading": "177",
+        "latitude": "24.95590",
+        "longitude": "62.64582",
+        "radar_id": "41051",
+        "speed": "253",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321938",
+        "altitude": "17325",
+        "heading": "182",
+        "latitude": "24.95358",
+        "longitude": "62.64570",
+        "radar_id": "41051",
+        "speed": "253",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321939",
+        "altitude": "17325",
+        "heading": "184",
+        "latitude": "24.95242",
+        "longitude": "62.64549",
+        "radar_id": "42251",
+        "speed": "253",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321941",
+        "altitude": "17325",
+        "heading": "190",
+        "latitude": "24.95009",
+        "longitude": "62.64513",
+        "radar_id": "41051",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321942",
+        "altitude": "17325",
+        "heading": "190",
+        "latitude": "24.94874",
+        "longitude": "62.64487",
+        "radar_id": "42251",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321944",
+        "altitude": "17325",
+        "heading": "194",
+        "latitude": "24.94665",
+        "longitude": "62.64425",
+        "radar_id": "41051",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321945",
+        "altitude": "17325",
+        "heading": "196",
+        "latitude": "24.94533",
+        "longitude": "62.64389",
+        "radar_id": "42251",
+        "speed": "255",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321948",
+        "altitude": "17350",
+        "heading": "200",
+        "latitude": "24.94218",
+        "longitude": "62.64254",
+        "radar_id": "41051",
+        "speed": "255",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321951",
+        "altitude": "17325",
+        "heading": "205",
+        "latitude": "24.93892",
+        "longitude": "62.64094",
+        "radar_id": "42251",
+        "speed": "255",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321953",
+        "altitude": "17350",
+        "heading": "206",
+        "latitude": "24.93561",
+        "longitude": "62.63917",
+        "radar_id": "42251",
+        "speed": "254",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321957",
+        "altitude": "17350",
+        "heading": "205",
+        "latitude": "24.93259",
+        "longitude": "62.63751",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321959",
+        "altitude": "17375",
+        "heading": "202",
+        "latitude": "24.93031",
+        "longitude": "62.63652",
+        "radar_id": "41051",
+        "speed": "252",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321962",
+        "altitude": "17400",
+        "heading": "197",
+        "latitude": "24.92606",
+        "longitude": "62.63499",
+        "radar_id": "42251",
+        "speed": "249",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321966",
+        "altitude": "17375",
+        "heading": "189",
+        "latitude": "24.92253",
+        "longitude": "62.63435",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321971",
+        "altitude": "17375",
+        "heading": "176",
+        "latitude": "24.91713",
+        "longitude": "62.63414",
+        "radar_id": "41051",
+        "speed": "239",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321972",
+        "altitude": "17375",
+        "heading": "176",
+        "latitude": "24.91585",
+        "longitude": "62.63423",
+        "radar_id": "42251",
+        "speed": "239",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321975",
+        "altitude": "17350",
+        "heading": "172",
+        "latitude": "24.91257",
+        "longitude": "62.63477",
+        "radar_id": "41051",
+        "speed": "236",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321978",
+        "altitude": "17350",
+        "heading": "164",
+        "latitude": "24.90962",
+        "longitude": "62.63565",
+        "radar_id": "41051",
+        "speed": "233",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321981",
+        "altitude": "17350",
+        "heading": "157",
+        "latitude": "24.90642",
+        "longitude": "62.63694",
+        "radar_id": "41051",
+        "speed": "230",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321984",
+        "altitude": "17350",
+        "heading": "151",
+        "latitude": "24.90344",
+        "longitude": "62.63855",
+        "radar_id": "41051",
+        "speed": "226",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321987",
+        "altitude": "17350",
+        "heading": "144",
+        "latitude": "24.90001",
+        "longitude": "62.64043",
+        "radar_id": "42251",
+        "speed": "219",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321990",
+        "altitude": "17350",
+        "heading": "136",
+        "latitude": "24.89767",
+        "longitude": "62.64264",
+        "radar_id": "42251",
+        "speed": "219",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321994",
+        "altitude": "17350",
+        "heading": "130",
+        "latitude": "24.89561",
+        "longitude": "62.64506",
+        "radar_id": "42251",
+        "speed": "212",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629321996",
+        "altitude": "17325",
+        "heading": "122",
+        "latitude": "24.89381",
+        "longitude": "62.64772",
+        "radar_id": "42251",
+        "speed": "214",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322000",
+        "altitude": "17325",
+        "heading": "116",
+        "latitude": "24.89237",
+        "longitude": "62.65157",
+        "radar_id": "42251",
+        "speed": "211",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322002",
+        "altitude": "17325",
+        "heading": "109",
+        "latitude": "24.89157",
+        "longitude": "62.65347",
+        "radar_id": "42251",
+        "speed": "206",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322005",
+        "altitude": "17325",
+        "heading": "102",
+        "latitude": "24.89044",
+        "longitude": "62.65757",
+        "radar_id": "42251",
+        "speed": "206",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322009",
+        "altitude": "17325",
+        "heading": "95",
+        "latitude": "24.88994",
+        "longitude": "62.66067",
+        "radar_id": "42251",
+        "speed": "203",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322011",
+        "altitude": "17325",
+        "heading": "90",
+        "latitude": "24.88994",
+        "longitude": "62.66373",
+        "radar_id": "42251",
+        "speed": "203",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322015",
+        "altitude": "17325",
+        "heading": "80",
+        "latitude": "24.89021",
+        "longitude": "62.66678",
+        "radar_id": "41051",
+        "speed": "200",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322018",
+        "altitude": "17325",
+        "heading": "73",
+        "latitude": "24.89078",
+        "longitude": "62.66975",
+        "radar_id": "42251",
+        "speed": "200",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322021",
+        "altitude": "17325",
+        "heading": "66",
+        "latitude": "24.89182",
+        "longitude": "62.67253",
+        "radar_id": "42251",
+        "speed": "198",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322024",
+        "altitude": "17325",
+        "heading": "62",
+        "latitude": "24.89306",
+        "longitude": "62.67524",
+        "radar_id": "42251",
+        "speed": "198",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322027",
+        "altitude": "17325",
+        "heading": "58",
+        "latitude": "24.89446",
+        "longitude": "62.67783",
+        "radar_id": "42251",
+        "speed": "197",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322034",
+        "altitude": "17350",
+        "heading": "54",
+        "latitude": "24.89735",
+        "longitude": "62.68280",
+        "radar_id": "42251",
+        "speed": "195",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322036",
+        "altitude": "17375",
+        "heading": "53",
+        "latitude": "24.89879",
+        "longitude": "62.68524",
+        "radar_id": "42251",
+        "speed": "195",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322039",
+        "altitude": "17375",
+        "heading": "52",
+        "latitude": "24.90060",
+        "longitude": "62.68763",
+        "radar_id": "42251",
+        "speed": "196",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322042",
+        "altitude": "17375",
+        "heading": "52",
+        "latitude": "24.90228",
+        "longitude": "62.68996",
+        "radar_id": "42251",
+        "speed": "196",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322043",
+        "altitude": "17375",
+        "heading": "52",
+        "latitude": "24.90284",
+        "longitude": "62.69079",
+        "radar_id": "41051",
+        "speed": "196",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322048",
+        "altitude": "17400",
+        "heading": "51",
+        "latitude": "24.90564",
+        "longitude": "62.69470",
+        "radar_id": "42251",
+        "speed": "196",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322051",
+        "altitude": "17425",
+        "heading": "51",
+        "latitude": "24.90736",
+        "longitude": "62.69701",
+        "radar_id": "42251",
+        "speed": "195",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322082",
+        "altitude": "17350",
+        "heading": "46",
+        "latitude": "24.92695",
+        "longitude": "62.72027",
+        "radar_id": "42251",
+        "speed": "205",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322119",
+        "altitude": "17350",
+        "heading": "45",
+        "latitude": "24.95125",
+        "longitude": "62.74847",
+        "radar_id": "42251",
+        "speed": "212",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322150",
+        "altitude": "17400",
+        "heading": "45",
+        "latitude": "24.97272",
+        "longitude": "62.77261",
+        "radar_id": "41051",
+        "speed": "214",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322180",
+        "altitude": "17450",
+        "heading": "45",
+        "latitude": "24.99385",
+        "longitude": "62.79635",
+        "radar_id": "41051",
+        "speed": "219",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322214",
+        "altitude": "17500",
+        "heading": "45",
+        "latitude": "25.01807",
+        "longitude": "62.82364",
+        "radar_id": "41051",
+        "speed": "222",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322247",
+        "altitude": "17850",
+        "heading": "47",
+        "latitude": "25.04203",
+        "longitude": "62.85061",
+        "radar_id": "42251",
+        "speed": "218",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322282",
+        "altitude": "17925",
+        "heading": "48",
+        "latitude": "25.06554",
+        "longitude": "62.88067",
+        "radar_id": "41051",
+        "speed": "228",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322308",
+        "altitude": "18300",
+        "heading": "37",
+        "latitude": "25.08514",
+        "longitude": "62.90176",
+        "radar_id": "42251",
+        "speed": "219",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322309",
+        "altitude": "18300",
+        "heading": "37",
+        "latitude": "25.08509",
+        "longitude": "62.90243",
+        "radar_id": "41051",
+        "speed": "219",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322312",
+        "altitude": "18325",
+        "heading": "36",
+        "latitude": "25.08672",
+        "longitude": "62.90378",
+        "radar_id": "42251",
+        "speed": "218",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322315",
+        "altitude": "18375",
+        "heading": "37",
+        "latitude": "25.09082",
+        "longitude": "62.90642",
+        "radar_id": "41051",
+        "speed": "218",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322377",
+        "altitude": "18875",
+        "heading": "28",
+        "latitude": "25.13956",
+        "longitude": "62.94769",
+        "radar_id": "41051",
+        "speed": "216",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322378",
+        "altitude": "18875",
+        "heading": "27",
+        "latitude": "25.14043",
+        "longitude": "62.94825",
+        "radar_id": "42251",
+        "speed": "216",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322382",
+        "altitude": "18900",
+        "heading": "27",
+        "latitude": "25.14398",
+        "longitude": "62.94974",
+        "radar_id": "42251",
+        "speed": "216",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322383",
+        "altitude": "18900",
+        "heading": "27",
+        "latitude": "25.14491",
+        "longitude": "62.95073",
+        "radar_id": "41051",
+        "speed": "216",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322385",
+        "altitude": "18925",
+        "heading": "27",
+        "latitude": "25.14652",
+        "longitude": "62.95176",
+        "radar_id": "42251",
+        "speed": "217",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322449",
+        "altitude": "18850",
+        "heading": "29",
+        "latitude": "25.20594",
+        "longitude": "62.98783",
+        "radar_id": "42251",
+        "speed": "240",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322510",
+        "altitude": "18875",
+        "heading": "30",
+        "latitude": "25.26646",
+        "longitude": "63.02660",
+        "radar_id": "42251",
+        "speed": "250",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322573",
+        "altitude": "18850",
+        "heading": "30",
+        "latitude": "25.32948",
+        "longitude": "63.06737",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322635",
+        "altitude": "18900",
+        "heading": "30",
+        "latitude": "25.39155",
+        "longitude": "63.10775",
+        "radar_id": "42251",
+        "speed": "249",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322695",
+        "altitude": "18850",
+        "heading": "30",
+        "latitude": "25.45276",
+        "longitude": "63.14739",
+        "radar_id": "42251",
+        "speed": "248",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322757",
+        "altitude": "18825",
+        "heading": "30",
+        "latitude": "25.51332",
+        "longitude": "63.18649",
+        "radar_id": "42251",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322818",
+        "altitude": "18825",
+        "heading": "30",
+        "latitude": "25.57352",
+        "longitude": "63.22575",
+        "radar_id": "42251",
+        "speed": "247",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322879",
+        "altitude": "18975",
+        "heading": "30",
+        "latitude": "25.63303",
+        "longitude": "63.26442",
+        "radar_id": "42251",
+        "speed": "240",
+        "squawk": "1435"
+    },
+    {
+        "snapshot_id": "1629322940",
+        "altitude": "18950",
+        "heading": "30",
+        "latitude": "25.69144",
+        "longitude": "63.30251",
+        "radar_id": "42251",
+        "speed": "243",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323002",
+        "altitude": "18950",
+        "heading": "30",
+        "latitude": "25.75209",
+        "longitude": "63.34147",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323062",
+        "altitude": "18950",
+        "heading": "30",
+        "latitude": "25.81187",
+        "longitude": "63.38119",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323125",
+        "altitude": "18950",
+        "heading": "30",
+        "latitude": "25.87189",
+        "longitude": "63.42044",
+        "radar_id": "42251",
+        "speed": "247",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323185",
+        "altitude": "18950",
+        "heading": "30",
+        "latitude": "25.93313",
+        "longitude": "63.46063",
+        "radar_id": "42251",
+        "speed": "247",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323247",
+        "altitude": "18950",
+        "heading": "30",
+        "latitude": "25.99323",
+        "longitude": "63.50003",
+        "radar_id": "42251",
+        "speed": "245",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323308",
+        "altitude": "18950",
+        "heading": "30",
+        "latitude": "26.05305",
+        "longitude": "63.53916",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323369",
+        "altitude": "18950",
+        "heading": "30",
+        "latitude": "26.11218",
+        "longitude": "63.57825",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323388",
+        "altitude": "18900",
+        "heading": "41",
+        "latitude": "26.13039",
+        "longitude": "63.59141",
+        "radar_id": "42251",
+        "speed": "248",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323391",
+        "altitude": "18900",
+        "heading": "46",
+        "latitude": "26.13272",
+        "longitude": "63.59431",
+        "radar_id": "42251",
+        "speed": "249",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323392",
+        "altitude": "18900",
+        "heading": "48",
+        "latitude": "26.13364",
+        "longitude": "63.59524",
+        "radar_id": "41051",
+        "speed": "250",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323393",
+        "altitude": "18900",
+        "heading": "52",
+        "latitude": "26.13432",
+        "longitude": "63.59628",
+        "radar_id": "42251",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323394",
+        "altitude": "18900",
+        "heading": "54",
+        "latitude": "26.13570",
+        "longitude": "63.59840",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323396",
+        "altitude": "18900",
+        "heading": "60",
+        "latitude": "26.13694",
+        "longitude": "63.60070",
+        "radar_id": "42251",
+        "speed": "253",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323403",
+        "altitude": "18925",
+        "heading": "68",
+        "latitude": "26.13978",
+        "longitude": "63.60793",
+        "radar_id": "42251",
+        "speed": "256",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323405",
+        "altitude": "18925",
+        "heading": "71",
+        "latitude": "26.14096",
+        "longitude": "63.61172",
+        "radar_id": "42251",
+        "speed": "256",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323409",
+        "altitude": "18950",
+        "heading": "73",
+        "latitude": "26.14220",
+        "longitude": "63.61549",
+        "radar_id": "42251",
+        "speed": "256",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323416",
+        "altitude": "18975",
+        "heading": "74",
+        "latitude": "26.14448",
+        "longitude": "63.62312",
+        "radar_id": "42251",
+        "speed": "256",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323418",
+        "altitude": "18975",
+        "heading": "75",
+        "latitude": "26.14541",
+        "longitude": "63.62690",
+        "radar_id": "42251",
+        "speed": "256",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323422",
+        "altitude": "18975",
+        "heading": "75",
+        "latitude": "26.14632",
+        "longitude": "63.63074",
+        "radar_id": "42251",
+        "speed": "256",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323481",
+        "altitude": "18925",
+        "heading": "75",
+        "latitude": "26.16343",
+        "longitude": "63.70787",
+        "radar_id": "41051",
+        "speed": "259",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323495",
+        "altitude": "18925",
+        "heading": "53",
+        "latitude": "26.17009",
+        "longitude": "63.72424",
+        "radar_id": "42251",
+        "speed": "250",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323501",
+        "altitude": "18925",
+        "heading": "43",
+        "latitude": "26.17465",
+        "longitude": "63.72984",
+        "radar_id": "42251",
+        "speed": "247",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323510",
+        "altitude": "18950",
+        "heading": "36",
+        "latitude": "26.18262",
+        "longitude": "63.73698",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323514",
+        "altitude": "18925",
+        "heading": "34",
+        "latitude": "26.18615",
+        "longitude": "63.73982",
+        "radar_id": "42251",
+        "speed": "244",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323516",
+        "altitude": "18950",
+        "heading": "32",
+        "latitude": "26.18802",
+        "longitude": "63.74123",
+        "radar_id": "42251",
+        "speed": "246",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323523",
+        "altitude": "18950",
+        "heading": "25",
+        "latitude": "26.19397",
+        "longitude": "63.74479",
+        "radar_id": "42251",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323525",
+        "altitude": "18950",
+        "heading": "24",
+        "latitude": "26.19704",
+        "longitude": "63.74636",
+        "radar_id": "42251",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323529",
+        "altitude": "18950",
+        "heading": "23",
+        "latitude": "26.20114",
+        "longitude": "63.74833",
+        "radar_id": "42251",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323530",
+        "altitude": "18950",
+        "heading": "23",
+        "latitude": "26.20221",
+        "longitude": "63.74884",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323531",
+        "altitude": "18950",
+        "heading": "23",
+        "latitude": "26.20427",
+        "longitude": "63.74983",
+        "radar_id": "42251",
+        "speed": "241",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323538",
+        "altitude": "18950",
+        "heading": "23",
+        "latitude": "26.21044",
+        "longitude": "63.75277",
+        "radar_id": "42251",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323541",
+        "altitude": "18950",
+        "heading": "23",
+        "latitude": "26.21356",
+        "longitude": "63.75423",
+        "radar_id": "42251",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323544",
+        "altitude": "18950",
+        "heading": "23",
+        "latitude": "26.21663",
+        "longitude": "63.75573",
+        "radar_id": "42251",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323604",
+        "altitude": "18950",
+        "heading": "24",
+        "latitude": "26.27815",
+        "longitude": "63.78667",
+        "radar_id": "41051",
+        "speed": "243",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323667",
+        "altitude": "18950",
+        "heading": "25",
+        "latitude": "26.34256",
+        "longitude": "63.81937",
+        "radar_id": "42251",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323727",
+        "altitude": "18925",
+        "heading": "25",
+        "latitude": "26.40376",
+        "longitude": "63.85160",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323782",
+        "altitude": "18950",
+        "heading": "25",
+        "latitude": "26.45997",
+        "longitude": "63.88074",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323855",
+        "altitude": "18925",
+        "heading": "24",
+        "latitude": "26.53587",
+        "longitude": "63.91954",
+        "radar_id": "41051",
+        "speed": "243",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323901",
+        "altitude": "18950",
+        "heading": "25",
+        "latitude": "26.58289",
+        "longitude": "63.94395",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323936",
+        "altitude": "18925",
+        "heading": "25",
+        "latitude": "26.61759",
+        "longitude": "63.96251",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323948",
+        "altitude": "18925",
+        "heading": "25",
+        "latitude": "26.62983",
+        "longitude": "63.96890",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323957",
+        "altitude": "18950",
+        "heading": "25",
+        "latitude": "26.63901",
+        "longitude": "63.97370",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323966",
+        "altitude": "18950",
+        "heading": "25",
+        "latitude": "26.64821",
+        "longitude": "63.97847",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323979",
+        "altitude": "18975",
+        "heading": "25",
+        "latitude": "26.66144",
+        "longitude": "63.98538",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629323985",
+        "altitude": "18975",
+        "heading": "25",
+        "latitude": "26.66759",
+        "longitude": "63.98855",
+        "radar_id": "41051",
+        "speed": "242",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324074",
+        "altitude": "18950",
+        "heading": "25",
+        "latitude": "26.75916",
+        "longitude": "64.03624",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324096",
+        "altitude": "18925",
+        "heading": "25",
+        "latitude": "26.78183",
+        "longitude": "64.04823",
+        "radar_id": "41051",
+        "speed": "245",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324114",
+        "altitude": "18925",
+        "heading": "25",
+        "latitude": "26.80040",
+        "longitude": "64.05774",
+        "radar_id": "41051",
+        "speed": "246",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324122",
+        "altitude": "18925",
+        "heading": "25",
+        "latitude": "26.80864",
+        "longitude": "64.06213",
+        "radar_id": "41051",
+        "speed": "246",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324128",
+        "altitude": "18925",
+        "heading": "25",
+        "latitude": "26.81589",
+        "longitude": "64.06584",
+        "radar_id": "41051",
+        "speed": "246",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324140",
+        "altitude": "18925",
+        "heading": "25",
+        "latitude": "26.82724",
+        "longitude": "64.07185",
+        "radar_id": "41051",
+        "speed": "246",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324150",
+        "altitude": "18925",
+        "heading": "25",
+        "latitude": "26.83755",
+        "longitude": "64.07723",
+        "radar_id": "41051",
+        "speed": "246",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324216",
+        "altitude": "18975",
+        "heading": "25",
+        "latitude": "26.90561",
+        "longitude": "64.11284",
+        "radar_id": "41051",
+        "speed": "244",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324258",
+        "altitude": "18925",
+        "heading": "37",
+        "latitude": "26.94814",
+        "longitude": "64.13731",
+        "radar_id": "41051",
+        "speed": "248",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324260",
+        "altitude": "18925",
+        "heading": "38",
+        "latitude": "26.94993",
+        "longitude": "64.13892",
+        "radar_id": "41051",
+        "speed": "248",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324263",
+        "altitude": "18925",
+        "heading": "40",
+        "latitude": "26.95263",
+        "longitude": "64.14135",
+        "radar_id": "41051",
+        "speed": "249",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324266",
+        "altitude": "18950",
+        "heading": "40",
+        "latitude": "26.95523",
+        "longitude": "64.14389",
+        "radar_id": "41051",
+        "speed": "249",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324319",
+        "altitude": "18950",
+        "heading": "45",
+        "latitude": "26.99909",
+        "longitude": "64.19201",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324325",
+        "altitude": "18950",
+        "heading": "45",
+        "latitude": "27.00398",
+        "longitude": "64.19756",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324365",
+        "altitude": "18925",
+        "heading": "45",
+        "latitude": "27.03749",
+        "longitude": "64.23489",
+        "radar_id": "41051",
+        "speed": "252",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324450",
+        "altitude": "18900",
+        "heading": "45",
+        "latitude": "27.10611",
+        "longitude": "64.31471",
+        "radar_id": "5672",
+        "speed": "253",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324512",
+        "altitude": "18900",
+        "heading": "45",
+        "latitude": "27.15690",
+        "longitude": "64.37312",
+        "radar_id": "41051",
+        "speed": "253",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324575",
+        "altitude": "18950",
+        "heading": "45",
+        "latitude": "27.20824",
+        "longitude": "64.43227",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324627",
+        "altitude": "18925",
+        "heading": "45",
+        "latitude": "27.25058",
+        "longitude": "64.48104",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324633",
+        "altitude": "18925",
+        "heading": "45",
+        "latitude": "27.25629",
+        "longitude": "64.48668",
+        "radar_id": "41051",
+        "speed": "252",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324640",
+        "altitude": "18950",
+        "heading": "45",
+        "latitude": "27.26120",
+        "longitude": "64.49322",
+        "radar_id": "41051",
+        "speed": "252",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324731",
+        "altitude": "18925",
+        "heading": "46",
+        "latitude": "27.33508",
+        "longitude": "64.57873",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324793",
+        "altitude": "18950",
+        "heading": "46",
+        "latitude": "27.38489",
+        "longitude": "64.63645",
+        "radar_id": "41051",
+        "speed": "249",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324851",
+        "altitude": "18950",
+        "heading": "45",
+        "latitude": "27.43198",
+        "longitude": "64.69067",
+        "radar_id": "41051",
+        "speed": "249",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324860",
+        "altitude": "18950",
+        "heading": "45",
+        "latitude": "27.43904",
+        "longitude": "64.69911",
+        "radar_id": "41051",
+        "speed": "250",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324906",
+        "altitude": "18950",
+        "heading": "45",
+        "latitude": "27.47617",
+        "longitude": "64.74212",
+        "radar_id": "41051",
+        "speed": "250",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324946",
+        "altitude": "18950",
+        "heading": "45",
+        "latitude": "27.50855",
+        "longitude": "64.77946",
+        "radar_id": "41051",
+        "speed": "250",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629324993",
+        "altitude": "18950",
+        "heading": "45",
+        "latitude": "27.54626",
+        "longitude": "64.82340",
+        "radar_id": "41051",
+        "speed": "250",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629325043",
+        "altitude": "18925",
+        "heading": "45",
+        "latitude": "27.58658",
+        "longitude": "64.87031",
+        "radar_id": "41051",
+        "speed": "250",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629325136",
+        "altitude": "18950",
+        "heading": "45",
+        "latitude": "27.66183",
+        "longitude": "64.95770",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629325151",
+        "altitude": "18925",
+        "heading": "45",
+        "latitude": "27.67392",
+        "longitude": "64.97195",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629325163",
+        "altitude": "18925",
+        "heading": "45",
+        "latitude": "27.68381",
+        "longitude": "64.98325",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629325215",
+        "altitude": "18925",
+        "heading": "45",
+        "latitude": "27.72577",
+        "longitude": "65.03230",
+        "radar_id": "41051",
+        "speed": "251",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629325280",
+        "altitude": "18950",
+        "heading": "46",
+        "latitude": "27.77943",
+        "longitude": "65.09394",
+        "radar_id": "41051",
+        "speed": "252",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629325387",
+        "altitude": "18925",
+        "heading": "46",
+        "latitude": "27.86570",
+        "longitude": "65.19583",
+        "radar_id": "5672",
+        "speed": "254",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629325407",
+        "altitude": "18925",
+        "heading": "45",
+        "latitude": "27.88223",
+        "longitude": "65.21495",
+        "radar_id": "5672",
+        "speed": "254",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629326841",
+        "altitude": "19475",
+        "heading": "348",
+        "latitude": "29.07307",
+        "longitude": "66.56146",
+        "radar_id": "3932",
+        "speed": "226",
+        "squawk": "0000"
+    },
+    {
+        "snapshot_id": "1629326856",
+        "altitude": "19525",
+        "heading": "345",
+        "latitude": "29.08841",
+        "longitude": "66.55729",
+        "radar_id": "3932",
+        "speed": "228",
+        "squawk": "0000"
+    },
+    {
+        "snapshot_id": "1629327449",
+        "altitude": "19850",
+        "heading": "340",
+        "latitude": "29.72548",
+        "longitude": "66.30038",
+        "radar_id": "42704",
+        "speed": "256",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629327517",
+        "altitude": "19825",
+        "heading": "340",
+        "latitude": "29.80163",
+        "longitude": "66.26904",
+        "radar_id": "42704",
+        "speed": "257",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629327584",
+        "altitude": "19900",
+        "heading": "348",
+        "latitude": "29.87820",
+        "longitude": "66.24347",
+        "radar_id": "42704",
+        "speed": "255",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629327645",
+        "altitude": "19850",
+        "heading": "349",
+        "latitude": "29.95064",
+        "longitude": "66.22789",
+        "radar_id": "42704",
+        "speed": "258",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629327707",
+        "altitude": "19850",
+        "heading": "349",
+        "latitude": "30.02261",
+        "longitude": "66.21228",
+        "radar_id": "3932",
+        "speed": "259",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629327777",
+        "altitude": "19850",
+        "heading": "349",
+        "latitude": "30.10565",
+        "longitude": "66.19451",
+        "radar_id": "42704",
+        "speed": "260",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629327838",
+        "altitude": "19850",
+        "heading": "349",
+        "latitude": "30.17814",
+        "longitude": "66.17900",
+        "radar_id": "42704",
+        "speed": "261",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629327904",
+        "altitude": "19850",
+        "heading": "349",
+        "latitude": "30.25676",
+        "longitude": "66.16225",
+        "radar_id": "3932",
+        "speed": "261",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629327964",
+        "altitude": "19850",
+        "heading": "349",
+        "latitude": "30.32804",
+        "longitude": "66.14703",
+        "radar_id": "42704",
+        "speed": "260",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629327985",
+        "altitude": "19825",
+        "heading": "349",
+        "latitude": "30.35303",
+        "longitude": "66.14190",
+        "radar_id": "42704",
+        "speed": "261",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629328012",
+        "altitude": "19850",
+        "heading": "349",
+        "latitude": "30.38507",
+        "longitude": "66.13500",
+        "radar_id": "42704",
+        "speed": "260",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629328139",
+        "altitude": "19875",
+        "heading": "349",
+        "latitude": "30.53492",
+        "longitude": "66.10292",
+        "radar_id": "3932",
+        "speed": "256",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629328201",
+        "altitude": "19850",
+        "heading": "349",
+        "latitude": "30.60712",
+        "longitude": "66.08738",
+        "radar_id": "3932",
+        "speed": "256",
+        "squawk": "6500"
+    },
+    {
+        "snapshot_id": "1629328253",
+        "altitude": "19875",
+        "heading": "349",
+        "latitude": "30.66787",
+        "longitude": "66.07436",
+        "radar_id": "3932",
+        "speed": "255",
+        "squawk": "6500"
+    }
+]

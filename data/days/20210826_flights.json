@@ -1,0 +1,50 @@
+[
+  {
+    "flight_id": 686412526,
+    "aircraft_id": 12760063,
+    "reg": 177705,
+    "equip": "C17",
+    "callsign": "RACER28",
+    "flight": "",
+    "schd_from": "KBL",
+    "schd_to": "KWI",
+    "real_to": "KWI",
+    "reserved": ""
+  },
+  {
+    "flight_id": 686449050,
+    "aircraft_id": 10909783,
+    "reg": "N516GH",
+    "equip": "GLF5",
+    "callsign": "GJE1776",
+    "flight": "DPJ1776",
+    "schd_from": "ATH",
+    "schd_to": "KBL",
+    "real_to": "KBL",
+    "reserved": ""
+  },
+  {
+    "flight_id": 686583002,
+    "aircraft_id": 11408472,
+    "reg": "066154",
+    "equip": "C17",
+    "callsign": "RCH633",
+    "flight": "",
+    "schd_from": "KBL",
+    "schd_to": "XJD",
+    "real_to": "XJD",
+    "reserved": ""
+  },
+  {
+    "flight_id": 686596705,
+    "aircraft_id": 11407548,
+    "reg": "010193",
+    "equip": "C17",
+    "callsign": "RCH649",
+    "flight": "",
+    "schd_from": "KBL",
+    "schd_to": "DHF",
+    "real_to": "DHF",
+    "reserved": ""
+  }
+]

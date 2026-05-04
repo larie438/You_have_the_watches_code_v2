@@ -1,0 +1,13 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emilio Lari",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
