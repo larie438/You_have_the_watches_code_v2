@@ -1,16 +1,12 @@
 // ============================================================
 // CANVAS & MAP DIMENSIONS
-// Fixed size of the canvas and the source map image
+// Canvas is fixed at map resolution always.
+// CSS scales it visually to fill the screen.
 // ============================================================
 const mapWidth = 1800;
 const mapHeight = 1200;
 let bg;
 
-// ============================================================
-// FLIGHT NAVIGATION STATE
-// Arrays to index all days and flights, plus selectors
-// to track which day and flight is currently being drawn
-// ============================================================
 let dayArray = [];
 let flightArray = [];
 let pointCount = 0;
@@ -20,80 +16,43 @@ let flightSelector = 0;
 
 let cnv;
 
-// ============================================================
-// ASSET DISPLAY VARIABLES
-// Used to scale and letterbox the map correctly inside
-// the canvas regardless of window size
-// ============================================================
-let assetWidth = 1800;
-let assetHeight = 1200;
+// assetX/Y/W/H are now constants — canvas = map, always
+const assetX        = 0;
+const assetY        = 0;
+const assetDisplayW = mapWidth;
+const assetDisplayH = mapHeight;
 
-let assetRatio = assetWidth / assetHeight;
-let canvasRatio;
-let assetDisplayW;
-let assetDisplayH;
-let assetX;
-let assetY;
+// These are kept for compatibility but never change
+let assetWidth  = mapWidth;
+let assetHeight = mapHeight;
+let assetRatio  = mapWidth / mapHeight;
 
-// ============================================================
-// GEOGRAPHIC BOUNDING BOX
-// Defines the lat/long edges of the map image.
-// Used to convert GPS coordinates to canvas pixel positions
-// ============================================================
 const edges = {
     minLong: 68.44000,
     maxLong: 69.93296,
-    minLat: 34.26000,
-    maxLat: 34.906933,
+    minLat:  34.26000,
+    maxLat:  34.906933,
 }
 
-// ============================================================
-// DATA STORE
-// allFlights holds all loaded JSON data organized by day.
-// currentFlight is the flight currently being animated
-// ============================================================
 let allFlights = {}
 let currentFlight = null
 
-// ============================================================
-// ANIMATION SPEED
-// frameDelay counts frames between each point advance.
-// SPEED = 1 means one new point drawn per frame (fastest)
-// ============================================================
 let frameDelay = 0;
 const SPEED = 1;
 
-// ============================================================
-// GRAPHICS LAYERS
-// trailsLayer: permanent — flight paths accumulate here
-// arrowLayer: cleared every frame — only holds the arrowhead
-// ============================================================
 let trailsLayer;
 let arrowLayer;
 
-// ============================================================
-// UI & SUMMARY STATE
-// lastFlightInfo caches the info panel data to prevent
-// flickering between flights.
-// summaryMode triggers the full overview at the end of all days
-// ============================================================
 let lastFlightInfo = null;
 
 let summaryMode = false;
 let summaryTimer = 0;
-const SUMMARY_DURATION = 30 * 60; // 30 seconds at 60fps
+const SUMMARY_DURATION = 30 * 60;
 
-// ============================================================
-// ARROWHEAD TRACKING
-// Stores the last two valid on-screen points to calculate
-// the direction angle for the arrowhead
-// ============================================================
 let lastValidX, lastValidY, prevValidX, prevValidY;
 
 // ============================================================
 // PRELOAD
-// Loads the map image and all flight JSON data before setup().
-// Data is nested: days → flights per day → route per flight
 // ============================================================
 function preload() {
     bg = loadImage('assets/map_small.png');
@@ -102,7 +61,6 @@ function preload() {
         for (let d = 0; d < days.length; d++) {
             const day = days[d];
             let dayFlights = {}
-
             loadJSON(
                 "/data/days/" + day.day + "_flights.json",
                 function (flights_of_day) {
@@ -121,25 +79,9 @@ function preload() {
 }
 
 // ============================================================
-// GET FLIGHT DATA
-// Sets currentFlight to the selected flight and caches
-// the landing/takeoff result so isLanding() only runs once
-// per flight instead of every frame
-// ============================================================
-function getFlightData(day, id) {
-    currentFlight = allFlights[day].flights[id];
-    currentFlight._isLanding = isLanding(currentFlight.route);
-    lastValidX = undefined;
-    lastValidY = undefined;
-    prevValidX = undefined;
-    prevValidY = undefined;
-}
-
-// ============================================================
 // SETUP
-// Creates the canvas, graphics layers, and builds the
-// dayArray and flightArray indexes from loaded data.
-// Calls drawFlight() to begin the animation
+// Canvas is fixed at 1800×1200. CSS handles all visual scaling.
+// No letterboxing math needed — coordinates are always stable.
 // ============================================================
 function setup() {
     cnv = createCanvas(mapWidth, mapHeight);
@@ -165,29 +107,36 @@ function setup() {
 
     drawFlight();
 
-    // estimate total animation duration based on route data
-    // let totalPoints = 0;
-    // let totalFlights = 0;
-    // for (let d = 0; d < dayArray.length; d++) {
-    //     for (let f = 0; f < flightArray[d].length; f++) {
-    //         const flight = allFlights[dayArray[d]].flights[flightArray[d][f]];
-    //         if (flight.route) {
-    //             totalPoints += flight.route.length;
-    //             totalFlights++;
-    //         }
-    //     }
-    // }
-    // const totalSeconds = totalPoints / 60;
-    // console.log("Flights:", totalFlights);
-    // console.log("Total points:", totalPoints);
-    // console.log("Estimated time:", (totalSeconds / 60).toFixed(1), "minutes");
+    let totalPoints = 0;
+    let totalFlights = 0;
+    for (let d = 0; d < dayArray.length; d++) {
+        for (let f = 0; f < flightArray[d].length; f++) {
+            const flight = allFlights[dayArray[d]].flights[flightArray[d][f]];
+            if (flight.route) {
+                totalPoints += flight.route.length;
+                totalFlights++;
+            }
+        }
+    }
+    console.log("Flights:", totalFlights);
+    console.log("Total points:", totalPoints);
+    console.log("Estimated time:", (totalPoints / 60 / 60).toFixed(1), "minutes");
+}
+
+// ============================================================
+// GET FLIGHT DATA
+// ============================================================
+function getFlightData(day, id) {
+    currentFlight = allFlights[day].flights[id];
+    currentFlight._isLanding = isLanding(currentFlight.route);
+    lastValidX = undefined;
+    lastValidY = undefined;
+    prevValidX = undefined;
+    prevValidY = undefined;
 }
 
 // ============================================================
 // DRAW FLIGHT
-// Advances to the next flight or next day.
-// Clears the trails layer between days.
-// Triggers summary mode after the last flight of the last day
 // ============================================================
 function drawFlight() {
     if (flightSelector < flightArray[daySelector].length - 1) {
@@ -198,7 +147,7 @@ function drawFlight() {
             daySelector++;
             trailsLayer.clear();
             arrowLayer.clear();
-            image(bg, assetX, assetY, assetDisplayW, assetDisplayH);
+            image(bg, 0, 0, mapWidth, mapHeight);
         } else {
             summaryMode = true;
             summaryTimer = 0;
@@ -213,10 +162,6 @@ function drawFlight() {
 
 // ============================================================
 // IS LANDING
-// Determines if a flight is landing or taking off by comparing
-// average altitude in the first vs last quarter of route points
-// that fall within the Kabul bounding box.
-// Returns true if altitude drops toward the end (landing)
 // ============================================================
 function isLanding(route) {
     if (!route || route.length < 2) return false;
@@ -247,9 +192,6 @@ function isLanding(route) {
 
 // ============================================================
 // ALTITUDE COLOR
-// Maps altitude to a color gradient.
-// Landings use red (dark at low alt, bright at high alt).
-// Takeoffs use green (dark at low alt, bright at high alt)
 // ============================================================
 function altitudeColor(altitude, landing) {
     const maxAlt = 12000;
@@ -271,13 +213,10 @@ function altitudeColor(altitude, landing) {
 }
 
 // ============================================================
-// DRAW ALL ROUTES
-// Called during summary mode. Draws every route of every
-// flight across all days at once onto the trails layer,
-// then composites it over the map background
+// DRAW ALL ROUTES  (summary mode)
 // ============================================================
 function drawAllRoutes() {
-    image(bg, assetX, assetY, assetDisplayW, assetDisplayH);
+    image(bg, 0, 0, mapWidth, mapHeight);
 
     for (let d = 0; d < dayArray.length; d++) {
         const day = dayArray[d];
@@ -296,13 +235,12 @@ function drawAllRoutes() {
                 const p    = flight.route[i];
                 const prev = flight.route[i - 1];
 
-                let x  = map(p.longitude,    edges.minLong, edges.maxLong, assetX, assetX + assetDisplayW);
-                let y  = map(p.latitude,     edges.maxLat,  edges.minLat,  assetY, assetY + assetDisplayH);
-                let px = map(prev.longitude, edges.minLong, edges.maxLong, assetX, assetX + assetDisplayW);
-                let py = map(prev.latitude,  edges.maxLat,  edges.minLat,  assetY, assetY + assetDisplayH);
+                let x  = map(p.longitude,    edges.minLong, edges.maxLong, 0, mapWidth);
+                let y  = map(p.latitude,     edges.maxLat,  edges.minLat,  0, mapHeight);
+                let px = map(prev.longitude, edges.minLong, edges.maxLong, 0, mapWidth);
+                let py = map(prev.latitude,  edges.maxLat,  edges.minLat,  0, mapHeight);
 
-                if (x  >= 0 && x  <= assetX + assetDisplayW && y  >= 0 && y  <= assetY + assetDisplayH &&
-                    px >= 0 && px <= assetX + assetDisplayW && py >= 0 && py <= assetY + assetDisplayH) {
+                if (x >= 0 && x <= mapWidth && y >= 0 && y <= mapHeight) {
                     let alt = p.altitude || p.alt || 0;
                     trailsLayer.stroke(altitudeColor(alt, landing));
                     trailsLayer.line(px, py, x, y);
@@ -315,9 +253,6 @@ function drawAllRoutes() {
 
 // ============================================================
 // DRAW FLIGHT INFO
-// Renders the info panel in the top left corner.
-// Caches the last valid data in lastFlightInfo so the panel
-// stays visible and stable between flight transitions
 // ============================================================
 function drawFlightInfo() {
     if (currentFlight && currentFlight.route && pointCount >= 1) {
@@ -382,25 +317,10 @@ function drawFlightInfo() {
 
 // ============================================================
 // DRAW — MAIN LOOP
-// Runs every frame. Handles three responsibilities:
-// 1. Recalculates aspect ratio and letterbox coordinates
-// 2. In summary mode: counts down 30s then restarts
-// 3. In normal mode: draws one new line segment per frame,
-//    updates the arrowhead, composites all layers, and
-//    advances pointCount based on SPEED
+// No letterbox math needed. All coords are in stable
+// map-space (0→1800, 0→1200) at all times.
 // ============================================================
 function draw() {
-
-    canvasRatio = width / height;
-    if (assetRatio > canvasRatio) {
-        assetDisplayW = width;
-        assetDisplayH = width / assetRatio;
-    } else {
-        assetDisplayH = height;
-        assetDisplayW = height * assetRatio;
-    }
-    assetX = (width - assetDisplayW) / 2;
-    assetY = (height - assetDisplayH) / 2;
 
     if (summaryMode) {
         summaryTimer++;
@@ -431,14 +351,12 @@ function draw() {
                 const routePoint = currentFlight.route[pointCount - 1];
                 const prevPoint  = currentFlight.route[pointCount - 2];
 
-                let x  = map(routePoint.longitude, edges.minLong, edges.maxLong, assetX, assetX + assetDisplayW);
-                let y  = map(routePoint.latitude,  edges.maxLat,  edges.minLat,  assetY, assetY + assetDisplayH);
-                let px = map(prevPoint.longitude,  edges.minLong, edges.maxLong, assetX, assetX + assetDisplayW);
-                let py = map(prevPoint.latitude,   edges.maxLat,  edges.minLat,  assetY, assetY + assetDisplayH);
+                let x  = map(routePoint.longitude, edges.minLong, edges.maxLong, 0, mapWidth);
+                let y  = map(routePoint.latitude,  edges.maxLat,  edges.minLat,  0, mapHeight);
+                let px = map(prevPoint.longitude,  edges.minLong, edges.maxLong, 0, mapWidth);
+                let py = map(prevPoint.latitude,   edges.maxLat,  edges.minLat,  0, mapHeight);
 
-                if (x  >= 0 && x  <= assetX + assetDisplayW && y  >= 0 && y  <= assetY + assetDisplayH &&
-                    px >= 0 && px <= assetX + assetDisplayW && py >= 0 && py <= assetY + assetDisplayH) {
-
+                if (x >= 0 && x <= mapWidth && y >= 0 && y <= mapHeight) {
                     const alt = routePoint.altitude || routePoint.alt || 0;
                     trailsLayer.noFill();
                     trailsLayer.strokeWeight(2);
@@ -466,7 +384,7 @@ function draw() {
                 arrowLayer.pop();
             }
 
-            image(bg, assetX, assetY, assetDisplayW, assetDisplayH);
+            image(bg, 0, 0, mapWidth, mapHeight);
             image(trailsLayer, 0, 0);
             image(arrowLayer, 0, 0);
             drawFlightInfo();
@@ -487,14 +405,17 @@ function draw() {
 
 // ============================================================
 // KEY CONTROLS
-// SPACE — toggle fullscreen
-// S     — jump to the first flight of the last day
-// R     — restart from day 1 flight 1
+// SPACE fullscreens the container div — the canvas stays
+// fixed at 1800×1200 and CSS letterboxes it automatically
 // ============================================================
 function keyPressed() {
     if (keyCode == 32) {
-        let fs = fullscreen();
-        fullscreen(!fs);
+        const el = document.getElementById('myContainer');
+        if (!document.fullscreenElement) {
+            el.requestFullscreen();
+        } else {
+            document.exitFullscreen();
+        }
     }
     if (key == 's' || key == 'S') {
         daySelector    = dayArray.length - 1;
@@ -505,7 +426,7 @@ function keyPressed() {
         summaryTimer   = 0;
         trailsLayer.clear();
         arrowLayer.clear();
-        image(bg, assetX, assetY, assetDisplayW, assetDisplayH);
+        image(bg, 0, 0, mapWidth, mapHeight);
         getFlightData(dayArray[daySelector], flightArray[daySelector][0]);
     }
     if (key == 'r' || key == 'R') {
@@ -525,10 +446,9 @@ function keyPressed() {
 
 // ============================================================
 // WINDOW RESIZED
-// Resizes the canvas to fill the new window dimensions.
-// Redraws the background to prevent a blank canvas
+// Canvas stays fixed — nothing to do here.
+// CSS handles all visual scaling automatically.
 // ============================================================
 function windowResized() {
-    resizeCanvas(windowWidth, windowHeight);
-    image(bg, assetX, assetY, assetDisplayW, assetDisplayH);
+    // intentionally empty
 }
